@@ -1,2 +1,9 @@
 A network technician is troubleshooting an issue and needs to verify the IP addresses of all interfaces on a router. What is the best command to use to accomplish the task?
 •	show ip interface brief
+
+
+Refer to the exhibit. An administrator is testing connectivity to a remote device with the IP address 10.1.1.1. What does the output of this command indicate?
+•	Connectivity to the remote device was successful.
+•	A router along the path did not have a route to the destination.
+•	A ping packet is being blocked by a security device along the path.
+•	The connection timed out while waiting for a reply from the remote device.
