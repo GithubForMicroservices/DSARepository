@@ -1,6 +1,6 @@
 [package]
 org = "Lesley"
-name = "clientservice"
+name = "Client"
 version = "0.1.0"
 distribution = "2201.7.0"
 
